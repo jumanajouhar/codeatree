@@ -7,3 +7,7 @@ Preview:
 
 https://github.com/jumanajouhar/codeatree/assets/106417445/687d30de-b4bc-4fb9-95e6-1c75ed36caf1
 
+
+
+GIF:
+![codeatree](https://github.com/jumanajouhar/codeatree/assets/106417445/db95355b-361b-44fe-b550-5d3d9d46b43c)
